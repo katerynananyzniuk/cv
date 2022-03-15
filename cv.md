@@ -9,6 +9,7 @@ I have relevant practical experience in HTML, CSS and JavaScript. I like to deal
 * HTML
 * CSS (SASS)
 * JavaScript
+* Webpack
 * GIT
 * Bootstrap
 * Figma
@@ -17,6 +18,9 @@ I have relevant practical experience in HTML, CSS and JavaScript. I like to deal
 * Agile
 * GTD
 * Teamwork
+## Hobbies
+* Fitness, cycling
+* Planning
 ## Experience
 ### [Github Projects](https://github.com/katerynananyzniuk?tab=repositories)
 ## Work Experience
