@@ -62,7 +62,8 @@ body {
 }
 .tech-skills__title,
 .soft-skills__title,
-.language-skills__title {
+.language-skills__title,
+.hobbies__title {
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
@@ -71,14 +72,16 @@ body {
 }
 .tech-skills,
 .soft-skills,
-.language-skills {
+.language-skills,
+.hobbies {
     margin-left: 40px;
     margin-top: 55px;
     margin-right: 40px;    
 }
 .tech-skills__item,
 .soft-skills__item,
-.language-skills__item {
+.language-skills__item,
+.hobbies__item {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
@@ -87,7 +90,8 @@ body {
 }
 .tech-skills__text,
 .soft-skills__text,
-.language-skills__text {
+.language-skills__text,
+.hobbies__text {
     color:#a8a8a8;
 }
 .info__title {
@@ -170,6 +174,9 @@ body {
 .education__item-text {
     color: #bebebe;
     font-weight: 400;
+}
+.education__item {
+    padding: 15px 0;
 }
 .education__item {
     padding: 15px 0;
